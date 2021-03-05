@@ -1,0 +1,320 @@
+.allpart{
+    width: 1000px;
+    margin: 0 auto;
+    background: #2c2727;
+}
+.header{
+    text-align: center;
+
+}
+.header h1{
+    color: #ffa31a;
+    margin: 0px;
+    padding: 20px 0px 0px;
+}
+.header h4{
+    color: white;
+    font-size: 22px;
+    margin: 0px;
+    font-family: 'Felipa', cursive;
+    
+}
+.image{
+}
+.image img{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.orange{
+    width: 100px;
+    height: 100px;
+    background: #ffa31a;
+    border-radius: 50%;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.title{
+}
+.title h3{
+    color: white;
+    text-align: center;
+    margin: 0px 100px;
+    padding-bottom: 20px;
+    font-family: 'Lancelot', cursive;
+    letter-spacing:1px;
+    font-size: 20px;
+}
+.address{
+    background: #e49520;
+    padding: 5px 100px 0px;
+    height: 25px;
+    color: white;
+}
+.phone{
+    display: inline-flex;
+}
+.phone i{
+    margin-top: -20px;
+    margin-right: 5px;
+    color: #e49520;
+    background: white;
+    height: 18px;
+    padding: 2px;
+}
+.phone h4{
+    margin-top: -20px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.email{
+    display: inline-flex;
+    padding: 20px;
+}
+.email i{
+    margin-top: -20px;
+    margin-right: 5px;
+    color: #e49520;
+    background: white;
+    height: 17px;
+    padding: 2px;
+}
+.email h4{
+    margin-top: -20px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.location{
+    display: inline-flex;
+}
+.location i{
+    margin-top: -20px;
+    margin-right: 5px;
+    color: #e49520;
+    background: white;
+    height: 17px;
+    padding: 2px;
+
+}
+.location h4{
+    margin-top: -20px;
+    font-size: 18px;
+    font-weight: 200;
+}
+.card{
+    width: 100%;
+    display: inline-flex;
+}
+.left{
+    width: 50%;
+    text-align: right;
+    padding-right: 10px;
+}
+.work{}
+.work h2{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.graphic{
+    text-transform: capitalize;
+    margin: 0px;
+}
+.graphic h3{color: white;}
+.graphic h4{
+    color: rgba(255, 255, 255, 0.575);
+    margin-top: -14px;
+}
+.graphic h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+}
+.visul{}
+.visul h3{color: white;}
+.visul h4{
+    color:rgba(255, 255, 255, 0.575);
+    margin-top: -14px;
+}
+.visul h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+}
+.assoc{}
+.assoc h3{ color: white;}
+.assoc h4{
+    color:rgba(255, 255, 255, 0.575);
+    margin-top: -14px;   
+}
+.assoc h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+
+}
+.right{
+    width: 50%;
+    padding-left: 10px;
+
+}
+.education{}
+.education h2{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.bsc{
+    text-transform: capitalize;
+    margin: 0px;
+}
+.bsc h3{color: white;}
+.bsc h4{
+    color: rgba(255, 255, 255, 0.575);
+    margin-top: -14px;
+}
+.bsc h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+}
+.higer{}
+.higer h3{color: white;}
+.higer h4{
+    color:rgba(255, 255, 255, 0.575);
+    margin-top: -14px;
+}
+.higer h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+}
+.secon{}
+.secon h3{ color: white;}
+.secon h4{
+    color:rgba(255, 255, 255, 0.575);
+    margin-top: -14px;   
+}
+.secon h5{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+
+}
+.card_2{
+    width: 100%;
+    display: inline-flex;
+}
+.skills{
+    width: 50%;
+    text-align: right;
+    padding-right: 10px;
+}
+.skills h2{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.skills h3{
+    color: rgba(255, 255, 255, 0.671);
+    font-weight: 200;
+    text-transform: capitalize;
+    line-height: 35px;
+}
+.logo1{
+    width: 50%;
+    padding-left: 10px;
+}
+.logo1 h2{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.logo1 img{
+    width: 40px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 6px black;
+    padding-right: 0px;
+}
+.no{
+    margin-top: 10px;
+}
+.card_3{
+    width: 100%;
+    display: inline-flex;
+}
+.certificates{
+    width: 50%;
+    text-align: right;
+    padding-right: 10px;
+
+}
+.kamrul h1{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.kamrul h3{
+    color:white;
+    font-size: 20px;   
+}
+.kamrul h4{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+
+}
+.uiux{}
+.uiux h3{
+    color:white;
+    font-size: 20px;    
+}
+.uiux h4{
+    color: rgba(255, 255, 255, 0.479);
+    margin-top: -20px;
+
+}
+.interest{
+    width: 50%;
+    padding-left: 10px;
+
+}
+.interest h2{
+    color: #b8740f;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+.ami img{ 
+    width: 300px;
+    margin-top: -15px; 
+}
+
+.footer{
+    padding: 30px 10px 30px 90px;
+    
+}
+.footer i{
+    background: rgb(231, 130, 41);
+    padding: 2px;
+    margin-right: 2px;
+}
+.footer span{
+    color: white;
+    font-size: 18px;
+    margin-right: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
